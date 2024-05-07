@@ -33,6 +33,8 @@ catalog.xml
 ### VS Code ###
 .vscode/
 
+### STS ###
+.factorypath
 
 # MacOS
 
